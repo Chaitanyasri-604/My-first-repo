@@ -1,3 +1,3 @@
 # My-first-repo
-Learning DevOps Using  గితుబ్
+Learning DevOps Using GitHub
 chaitanyasri
